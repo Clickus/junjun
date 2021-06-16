@@ -1,6 +1,6 @@
 {
   "name": "@clickus/url2base64-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "图片url转base64",
   "keywords": [
     "img",
