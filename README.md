@@ -59,3 +59,5 @@
   ``` json
     lerna publish
   ```
+
+  https://mp.weixin.qq.com/s/NlOn7er0ixY1HO40dq5Gag

@@ -27,5 +27,6 @@
   "dependencies": {
     "esbuild": "^0.12.9",
     "network-config": "^2.3.0"
-  }
+  },
+  "gitHead": "8586836a51db4e8f01e9639b5405064805987ec9"
 }
