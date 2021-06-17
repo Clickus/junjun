@@ -68,10 +68,10 @@
 
   ### 增加两个 packages
   ``` json
-    lerna create @clickus/url2base64-js
+    lerna create @clickus/url2base64
   ```
   ``` json
-    lerna create @clickus/copy-node-text-js
+    lerna create @clickus/copy-node-text
   ```
 
   ### package 增加依赖模块
@@ -79,13 +79,13 @@
   ``` json
     lerna add esbuild 
   ```
-  #### 为 @clickus/url2base64-js 增加 semver 模块
+  #### 为 url2base64 增加 network-config 模块
   ``` json
-    lerna add network-config --scope @clickus/url2base64-js 
+    lerna add network-config --scope url2base64
   ```
-  #### 给@clickus/url2base64-js 添加 @clickus/copy-node-text-js 依赖
+  #### 给url2base64 添加 copy-node-text 依赖
   ``` json
-    lerna add @clickus/copy-node-text-js --scope @clickus/url2base64-js
+    lerna add copy-node-text --scope url2base64
   ```
 
   ### 发布npm包
