@@ -1,6 +1,6 @@
 {
   "name": "@clickus/copy-node-text-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "复制html节点文字",
   "keywords": [
     "html",
