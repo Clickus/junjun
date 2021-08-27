@@ -1,7 +1,11 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "build": "lerna exec --concurrency 1 'yarn build'"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "workspaces": ["packages/*"]
 }

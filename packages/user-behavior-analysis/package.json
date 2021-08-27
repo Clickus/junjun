@@ -1,0 +1,32 @@
+{
+  "name": "@jj/user-behavior-analysis",
+  "version": "0.0.1",
+  "description": "用户行为分析",
+  "keywords": [
+    "用户行为分析"
+  ],
+  "author": "lujun10 <lujun10@meicai.cn>",
+  "homepage": "https://github.com/Clickus/junjun#readme",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clickus/junjun.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Clickus/junjun/issues"
+  }
+}
