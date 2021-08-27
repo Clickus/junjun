@@ -1,11 +1,11 @@
-# `@clickus/url2base64`
+# `@jj/url2base64`
 
 > TODO: description
 
 ## Usage
 
 ```
-const url2base64 = require('@clickus/url2base64');
+const url2base64 = require('@jj/url2base64');
 
 // TODO: DEMONSTRATE API
 ```

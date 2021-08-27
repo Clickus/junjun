@@ -2,6 +2,6 @@
 
 const url2base64 = require('..');
 
-describe('@clickus/url2base64', () => {
+describe('@jj/url2base64', () => {
     it('needs tests');
 });
